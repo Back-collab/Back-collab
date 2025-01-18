@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @Back-collab
-
+- 💻 I code scripts and bots.
+- 🔥 I mainly use codespaces.
+- 🦾 I am Proficent in HTML/Javascript/CSS,Lua, and Python
+- 🤓 I am learning C++ (Intermidate)
