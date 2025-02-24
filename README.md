@@ -3,10 +3,10 @@
 
 **What kind of things I develop 💻**
 - 🌚 Backend + Frontend (not really front)
-- 🤖 Discord Bots
-- 📜 Roblox scripts
-- 💻 I code scripts and bots.
-- 🔥 I mainly use codespaces.
+- 🤖 Discord Bots and other bots
+- 📜 Roblox scripts and other scripts
+- 💻 I mainly code scripts and bots.
+- 🔥 I'm looking to Collab so DM me!
 
 **My specialty languages 🦾**
 
